@@ -67,7 +67,7 @@
 
 ### GitOps Projects
 
-[![](https://img.shields.io/badge/-GitOps_Tetris_Game-000?&logo=git)](https://github.com/Syerramsetti915/tetris-game)
+[![](https://img.shields.io/badge/-Tetris_Game-000?&logo=git)](https://github.com/Syerramsetti915/tetris-game)
     </p>
 
 <h2 align="left">Let's get connected:</h2>
