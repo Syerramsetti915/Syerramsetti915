@@ -65,10 +65,6 @@
 
 [![](https://img.shields.io/badge/-Netflix-000?&logo=netflix)](https://github.com/Syerramsetti915/Netflix-clone)
 
-### SRE Projects
-
-[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-
 ### GitOps Projects
 
 [![](https://img.shields.io/badge/-GitOps_Tetris_Game-000?&logo=git)](https://github.com/Syerramsetti915/tetris-game)
