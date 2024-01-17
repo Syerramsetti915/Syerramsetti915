@@ -1,6 +1,6 @@
 <h2 align="left">
  <abc>
-  <br>Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="90"><br>
+  <br>Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="60"><br>
   <br> I'm Suseel kumar, Aws Cloud Engineer :computer:<br>
   <br>
     <h2 align="left">👨🏻‍💻 About Me:</h2>
