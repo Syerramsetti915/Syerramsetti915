@@ -63,7 +63,7 @@
 
 ### DevSecOps Projects
 
-![](https://img.shields.io/badge/-Netflix-000?&logo=netflix)
+[![](https://img.shields.io/badge/-Netflix-000?&logo=netflix)](https://github.com/Syerramsetti915/Netflix-clone)
 
 ### SRE Projects
 
