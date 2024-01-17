@@ -5,14 +5,13 @@
   <br>
     <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-  - :computer: I'm a DevOps Engineer, currently exploring Web3 Space <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="300" width="500"/><br>
-  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+  - :computer: I'm Suseel Kumar, an Aws Cloud Engineer with a passion  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="300" width="500"/><br>
+     for Cloud/DevSecOps/SRE and the evolving AI Space.
+  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love exploring new technologies and building cool stuff. <br>
   - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
   - :rocket: Always ready to collaborate for Dev Experiments
-  - :man_technologist: Former Project Lead Intern at GirlScript Foundation
   - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-  - :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-  - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+  - :zap: Fun fact: I thrive on learning at Meetups and expanding my network at Conferences.<br>
  </abc>
 </h2> 
 <br/>
@@ -42,6 +41,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=csswizardry)
 ![JSON](https://img.shields.io/badge/-JSON-000?&logo=json)
 ![VS_Code](https://img.shields.io/badge/-VS_Code-000?&logo=visualstudiocode)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
 
 
 ### Technologies
