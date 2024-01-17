@@ -9,7 +9,7 @@
      for Cloud/DevSecOps/SRE and the evolving AI Space.
   - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love exploring new technologies and building cool stuff. <br>
   - :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-  - :rocket: Always ready to collaborate for Dev Experiments
+  - <img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/rocket.gif" width="20" />&nbsp;&nbsp;&nbsp; Always ready to collaborate for Dev Experiments
   - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
   - :zap: Fun fact: I thrive on learning at Meetups and expanding my network at Conferences.<br>
  </abc>
@@ -29,7 +29,7 @@
 
 
 
-<h3 align="left">⚡ Languages and Tools I use:</h3>
+<h3 align="left"><img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/vscode.gif" width="25" />&nbsp; Languages and Tools I use:</h3>
 <p align="left">
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -74,6 +74,6 @@
 [![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
     </p>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left"><img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/hand_shake.gif" width="50" />Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-suseel_kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suseel-kumar/)](https://www.linkedin.com/in/suseel-kumar/) 
