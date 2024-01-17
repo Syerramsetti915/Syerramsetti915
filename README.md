@@ -61,7 +61,7 @@
 
 ### DevSecOps Projects
 
-[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
+![](https://img.shields.io/badge/-Netflix-000?&logo=netflix)
 
 ### SRE Projects
 
