@@ -7,7 +7,7 @@
 
   - <img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/Robot.webp" width="20" />&nbsp;&nbsp; I'm Suseel Kumar, an Aws Cloud Engineer <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="300" width="500"/><br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; with a passion for Cloud/DevSecOps/SRE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and the evolving AI Space.
-  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I love exploring new technologies and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;building cool stuff. <br>
+  - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;I love exploring new technologies and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;building cool stuff. <br>
   - <img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/Hourglass%20Done.webp" width="20" />&nbsp;&nbsp;&nbsp; Exploring Google Cloud & Microsoft Azure
   - <img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/Rocket.webp" width="20" />&nbsp;&nbsp;&nbsp; Always ready to collaborate for Dev &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Experiments
   - <img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/Penguin.png" width="20" />&nbsp;&nbsp;&nbsp; Life Hack: "Explore <img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/Fire.webp" width="20" /> and Explode <img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/Bomb.webp" width="20" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with knowledge"
