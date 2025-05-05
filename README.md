@@ -3,7 +3,7 @@
   <br>Hi there! <img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/Waving%20Hand.png" width="60">
   <br> I'm Suseel kumar, Aws/DevOps/SRE Engineer <img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/Owl.png" width="60" /><br>
   <br>
-    <h2 align="left"><img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/Technologist%20Medium-Light%20Skin%20Tone.png" width="30" /> About Me: https://suseelkumar.com/</h2>
+    <h2 align="left"><img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/Technologist%20Medium-Light%20Skin%20Tone.png" width="30" /> About Me: <sub>https://suseelkumar.com/ </sub> </h2>
 
   - <img src="https://github.com/Syerramsetti915/Syerramsetti915/blob/main/Robot.webp" width="20" />&nbsp;&nbsp; I'm Suseel Kumar, an Aws Cloud Engineer <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" height="300" width="500"/><br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with a passion for Cloud/DevSecOps/SRE <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and the evolving AI Space.
